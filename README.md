@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vijaykishorsingh
-- 👀 I’m interested in Machine Learning / AI-ML / Deep Learning / Cloud Integration
-- 🌱 I’m currently learning its a secret
+- 👀 I’m interested in Machine Learning / AI-ML / Deep Learning / Cloud Integration / LLM
+- 🌱 I’m currently working on LLMs
 - 💞️ I’m looking to collaborate on AI/ML 
 - 📫 How to reach me thru my email account kishor.vijay.singh@gmail.com
 
